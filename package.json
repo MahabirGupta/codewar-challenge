@@ -1,0 +1,23 @@
+{
+  "name": "codewar-challenge",
+  "version": "1.0.0",
+  "description": "Ex 1. We need a function that can transform a number into a string. Ex 2. We need a function that can transform a string into a number.",
+  "main": "convertNumtoString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahabirGupta/codewar-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahabirGupta/codewar-challenge/issues"
+  },
+  "homepage": "https://github.com/MahabirGupta/codewar-challenge#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
