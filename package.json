@@ -2,7 +2,7 @@
   "name": "codewar-challenge",
   "version": "1.0.0",
   "description": "Ex 1. We need a function that can transform a number into a string. Ex 2. We need a function that can transform a string into a number.",
-  "main": "convertNumtoString.js",
+  "main": "01-convert-number-to-string/convertNumtoString.js",
   "scripts": {
     "test": "jest"
   },
