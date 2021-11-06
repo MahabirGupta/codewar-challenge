@@ -1,6 +1,7 @@
 const StringtoArray = (num) => {
+  
+  console.log("Convert string to array")
   return num.split(" ");
-  console.log("return")
 };
 
 module.exports = { StringtoArray }
