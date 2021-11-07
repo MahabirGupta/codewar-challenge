@@ -1,7 +1,8 @@
 var stringToNumber = function(str){
-  return parseInt(str);
+  console.log (parseInt(str))
+    return parseInt(str);
   
-  console.log("return")
+  
   
 }
 stringToNumber("5");

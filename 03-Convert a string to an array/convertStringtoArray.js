@@ -1,7 +1,8 @@
 const StringtoArray = (num) => {
   
-  console.log("Convert string to array")
+  
+  console.log (num.split(" ")); 
   return num.split(" ");
 };
-
+StringtoArray("Tom Cruise")
 module.exports = { StringtoArray }
