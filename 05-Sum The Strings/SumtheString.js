@@ -1,4 +1,5 @@
 var sumStr = function(a,b){
+  
   console.log (parseInt(a));
   console.log (parseInt(b));
   total = parseInt(a) + parseInt(b);
